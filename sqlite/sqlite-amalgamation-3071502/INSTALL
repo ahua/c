@@ -1,1 +1,4 @@
-gcc shell.c sqlite3.c -lpthread -ldl
+README:
+http://www.sqlite.org/howtocompile.html
+
+$ gcc shell.c sqlite3.c -lpthread -ldl
