@@ -1,0 +1,12 @@
+* 
+u can define additional options, such as recurse level (-r<number>), separed by blank spaces
+To see the option list, type help
+Additional options (return=none) :
+---> Wizard command line: httrack http://tldp.org/LDP/Bash-Beginners-Guide  -O "/home/yhyan/websites/webfront"  -%v  
+
+Ready to launch the mirror? (Y/n) :
+Mirror launched on Wed, 10 Apr 2013 20:19:39 by HTTrack Website Copier/3.46+libhtsjava.so.2 [XR&CO'2010]
+mirroring http://tldp.org/LDP/Bash-Beginners-Guide with the wizard help..
+Done.
+Thanks for using HTTrack!
+* 
